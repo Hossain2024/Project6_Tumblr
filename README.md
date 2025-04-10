@@ -1,8 +1,8 @@
-# Project 6 - *Name of App Here*
+# Project 6 - **Tumblr**
 
-Submitted by: **Your Name Here**
+Submitted by: **Maliha Hossain**
 
-**Name of your app** is an app that ... [TODO] 
+**Tumblr** is an app that Alows user to read blog posts
 
 Time spent: **X** hours spent in total
 
@@ -24,11 +24,11 @@ The following **additional** features are implemented:
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+https://www.loom.com/share/ed859ac37da042c3bc269ea03c4a2207?sid=515adb2d-5159-40ec-95eb-3857ff28615b
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+It was very similar to the lab. I just got stuck on photos for a little but was able to handle it reading the post class as it an array. 
 
 ## License
 
